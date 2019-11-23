@@ -1,9 +1,10 @@
 ---
 title: shell 常用命令
-date: 2019/11/23 21:30:25
+date: 2019/11/23 19:30:25
 categories:
 - shell脚本
 ---
+
 # shell 常用命令
 
 ### expect
