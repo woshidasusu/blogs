@@ -95,6 +95,7 @@ menu:
   home: / || home
   #about: /about/ || user
   #tags: /tags/ || tags
+  gitbook: http://gitbook.dasu.fun || book
   categories: /categories/ || th
   archives: /archives/ || archive
   #schedule: /schedule/ || calendar
