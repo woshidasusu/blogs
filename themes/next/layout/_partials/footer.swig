@@ -9,8 +9,8 @@
   <span class="author" itemprop="copyrightHolder">{{ theme.footer.copyright || config.author }}</span></br>
 	
   <div class="powered-by">
-    <i class="fa fa-user-md"></i><span id="busuanzi_container_site_uv">
-    本站访客数:<span id="busuanzi_value_site_uv"></span> | 
+    <i class="fa fa-user-md"></i><span id="busuanzi_container_site_pv">
+    本站访问量:<span id="busuanzi_value_site_pv"></span> | 
     </span>
   </div>
 
